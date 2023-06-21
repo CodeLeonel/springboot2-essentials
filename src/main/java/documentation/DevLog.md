@@ -30,3 +30,13 @@ Spring Boot.
 O Domain e o Controller foram criados em seguida para operacionalizar o mínimo de uma
 API REST, mas nada daquilo funcionaria corretamente se não fosse pela anotação @ComponentScan
 que basicamente mapeou as classes para serem incluidas na aplicação REST.
+
+
+-----------
+
+A classe de ignição da API subiu um nível acima para compor todos os elementos que estão e serão implementados. Lombok foi inserido no Maven, instalado na IDE, também foi executado comando: "mvn clean install -U" e o projeto foi limpado (Clean) para poder funcionar o "log" de Lombok.
+
+Talvez seja importante encontrar uma forma de documentar anotações para aprendizado pessoal.
+
+-----------
+
