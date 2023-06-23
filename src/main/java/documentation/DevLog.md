@@ -65,3 +65,13 @@ No POM foi acrescentado mais uma dependência, que é o DevTools. Com ela é pos
 		<artifactId>spring-boot-devtools</artifactId>
 	</dependency>
 ```
+
+---------
+
+## Spring Starter
+
+A inevitabilidade do Spring Starter é forte pois possui uma configuração mais ampla. O que leva a inutilidade deste projeto agora depreciado, porém pode se tornar um desafio para realizar configurações manuais até chegar em níveis esperados da qualidade do Spring Starter. Para prosseguir com o curso as funcionalidades criadas nesta API e o DevLog serão preservados para a próxima API que será registrada mais adiante neste DevLog 
+
+
+
+
