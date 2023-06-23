@@ -15,7 +15,7 @@ O conjunto de tags se apresenta a seguir:
    <groupId>org.springframework.boot</groupId>
    <version>2.3.4.RELEASE</version>
   </parent>
-```XML
+```
 
  A única dependencia necessária para o funcionamento do Spring Boot é o Starter Web:
 
@@ -26,7 +26,7 @@ O conjunto de tags se apresenta a seguir:
      <artifactId>spring-boot-starter-web</artifactId>
     </dependency>
    </dependencies>
-```XML
+```
 
 Em seguida foi criado uma classe com o método main, com instrução de executar o programa.
 Além de precisar utilizar a classe SpringApplication, também foi nessário a Anotação
