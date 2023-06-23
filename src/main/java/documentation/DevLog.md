@@ -52,3 +52,16 @@ Talvez seja importante encontrar uma forma de documentar anotações para aprend
 Feito um esquema para rememorar e especializar nas anotações Spring.
 
 ![Anotações Spring](./Spring.jpg)
+
+------------
+
+## Devtools
+
+No POM foi acrescentado mais uma dependência, que é o DevTools. Com ela é possível xecutar mais rapidamente e também qualquer alteração realizada e salva faz com que o sprint Boot seja reiniciado.
+
+```XML
+	<dependency>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-devtools</artifactId>
+	</dependency>
+```
